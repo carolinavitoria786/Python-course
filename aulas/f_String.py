@@ -11,3 +11,4 @@ print(linha_2)
 
 # f -> para indicar a formatação da string(f-strings)
 # {} -> para adicionar as variaveis e suas respectivas formatações como .2f -> duas casas decimais
+#02d é a formatação para os numeros inteiros

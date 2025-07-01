@@ -5,7 +5,7 @@
 # 3. * / // %
 # 4. + -
 
-# #adicao = 10 + 10
+# adicao = 10 + 10
 # print('Adição', adicao)
 
 # subtracao = 10 - 5
@@ -23,8 +23,8 @@
 # exponenciacao = 2 ** 10
 # print('Exponenciação', exponenciacao)
 
-modulo = 55 % 2  # resto da divisão
-print('Módulo', modulo)
+#modulo = 55 % 2  # resto da divisão
+#print('Módulo', modulo)
 
-conta_1 = 1 + 1 ** 5 + 5
-print(conta_1)
+#conta_1 = 1 + 1 ** 5 + 5
+#print(conta_1)
