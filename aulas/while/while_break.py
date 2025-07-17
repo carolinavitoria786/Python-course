@@ -24,7 +24,7 @@ while contador <= 100:
     
     if contador == 6:
         print('Não vou mostrar o 6.')
-        continue
+        continue                          #faz com que o programa continue ou seja retorna ao começo do programa para que continue sendo executado
     
     if contador >= 10 and contador <= 27:
         print('Não vou mostrar o', contador)
